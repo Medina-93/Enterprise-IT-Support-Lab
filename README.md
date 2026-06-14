@@ -32,3 +32,4 @@ Deployed an IT Service Management dashboard inside Jira Service Management. Succ
 
 [
 ](https://github.com/Medina-93/Enterprise-IT-Support-Lab/blob/main/Screen%20Shot%202026-06-14%20at%204.04.41%20PM.png?raw=true)
+https://github.com/Medina-93/Enterprise-IT-Support-Lab/blob/main/Screen%20Shot%202026-06-14%20at%203.23.06%20PM.png?raw=true
