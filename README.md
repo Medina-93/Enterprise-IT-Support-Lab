@@ -30,4 +30,12 @@ Deployed an IT Service Management dashboard inside Jira Service Management. Succ
 *   **Root Cause Analysis:** Verified that local client routing tables were failing upon launching the secure tunnel due to a metric overwrite error (Split-Tunneling mismatch configuration).
 *   **Resolution Protocol:** Reinstalled a verified clean AnyConnect profile configuration, flushed local system routing tables, and confirmed connection stability before marking the ticket as resolved in the open work queue.
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/97f72a9d-9cda-4f4a-a263-3b81b7342fa2" />
+<img width="1956" height="1020" alt="image" src="https://github.com/user-attachments/assets/f577d48f-00a7-4cf2-a531-4d9d7a65f8ce" />
+<img width="1956" height="1020" alt="image" src="https://github.com/user-attachments/assets/96eeb4cf-d9d1-440f-a9f1-4558d8a5d498" />
+<img width="1956" height="1020" alt="image" src="https://github.com/user-attachments/assets/9b98dceb-e8c5-4a1d-bf88-fd9f937bf917" />
+<img width="2202" height="1422" alt="image" src="https://github.com/user-attachments/assets/cd4224e7-7567-466b-9737-38d104498a38" />
+<img width="2832" height="1534" alt="image" src="https://github.com/user-attachments/assets/20474a99-710d-4b85-9c41-0f5ceb269f26" />
+<img width="2846" height="1538" alt="image" src="https://github.com/user-attachments/assets/42b9cb81-1773-478c-bcd6-8d84eb11dad7" />
+<img width="2850" height="1532" alt="image" src="https://github.com/user-attachments/assets/3515323d-f793-4ec4-b2c1-cb328fe260be" />
+<img width="2862" height="1542" alt="image" src="https://github.com/user-attachments/assets/49aecd35-f6f5-4d5f-8cb8-c99e4fa68445" />
 
