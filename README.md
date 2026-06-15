@@ -19,7 +19,6 @@ Executed standard diagnostic commands within the Windows environment to verify l
 *   `ping 8.8.8.8` - Confirmed structural Layer 3 stability with 0% data packet loss and steady latency bounds.
 *   `nslookup google.com` - Validated Domain Name System (DNS) server configuration routing metrics.
 
-### [Insert Your Command Prompt Screenshot Here]
 
 ---
 
